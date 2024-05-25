@@ -1,0 +1,231 @@
+{
+    "list": [
+      {
+        "key": {
+          "down": "KeyS",
+          "left": "KeyA",
+          "right": "KeyD",
+          "up": "KeyW"
+        },
+        "note": "",
+        "offset": 100,
+        "pointerId": 1,
+        "posX": 170,
+        "posY": 300,
+        "type": "SteeringWheel"
+      },
+      {
+        "key": "KeyC",
+        "note": "",
+        "pointerId": 3,
+        "posX": 50,
+        "posY": 360,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "KeyB",
+        "note": "",
+        "pointerId": 3,
+        "posX": 661,
+        "posY": 20,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "KeyT",
+        "note": "",
+        "pointerId": 3,
+        "posX": 700,
+        "posY": 20,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "Escape",
+        "note": "",
+        "pointerId": 3,
+        "posX": 735,
+        "posY": 20,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "KeyG",
+        "note": "",
+        "pointerId": 3,
+        "posX": 140,
+        "posY": 25,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "KeyM",
+        "note": "",
+        "pointerId": 3,
+        "posX": 155,
+        "posY": 140,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "KeyE",
+        "note": "",
+        "pointerId": 3,
+        "posX": 572,
+        "posY": 338,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "ShiftLeft",
+        "note": "",
+        "pointerId": 3,
+        "posX": 715,
+        "posY": 340,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "Digit1",
+        "note": "",
+        "pointerId": 3,
+        "posX": 715,
+        "posY": 90,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "Digit2",
+        "note": "",
+        "pointerId": 3,
+        "posX": 715,
+        "posY": 140,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "Digit3",
+        "note": "",
+        "pointerId": 3,
+        "posX": 715,
+        "posY": 185,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "Digit4",
+        "note": "",
+        "pointerId": 3,
+        "posX": 715,
+        "posY": 225,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "KeyF",
+        "note": "",
+        "pointerId": 3,
+        "posX": 490,
+        "posY": 235,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "Space",
+        "note": "",
+        "pointerId": 2,
+        "posX": 635,
+        "posY": 330,
+        "range": 30,
+        "type": "DirectionalSkill"
+      },
+      {
+        "key": "KeyR",
+        "note": "",
+        "pointerId": 2,
+        "posX": 715,
+        "posY": 285,
+        "range": 30,
+        "type": "DirectionalSkill"
+      },
+      {
+        "key": "M2",
+        "note": "",
+        "pointerId": 2,
+        "posX": 650,
+        "posY": 300,
+        "range": 30,
+        "type": "DirectionalSkill"
+      },
+      {
+        "key": "F1",
+        "note": "",
+        "pointerId": 3,
+        "posX": 500,
+        "posY": 20,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "F2",
+        "note": "",
+        "pointerId": 3,
+        "posX": 535,
+        "posY": 20,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "F3",
+        "note": "",
+        "pointerId": 3,
+        "posX": 575,
+        "posY": 20,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "F4",
+        "note": "",
+        "pointerId": 3,
+        "posX": 620,
+        "posY": 20,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "KeyJ",
+        "note": "",
+        "pointerId": 3,
+        "posX": 55,
+        "posY": 110,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "key": "KeyP",
+        "note": "",
+        "pointerId": 3,
+        "posX": 55,
+        "posY": 33,
+        "time": 80,
+        "type": "Tap"
+      },
+      {
+        "type": "Sight",
+        "key": "AltLeft",
+        "note": "",
+        "posX": 375,
+        "posY": 170,
+        "pointerId": 0,
+        "scaleX": 0.5,
+        "scaleY": 0.5
+      }
+    ],
+    "relativeSize": {
+      "h": 400,
+      "w": 800
+    },
+    "title": "HSR-v1"
+  }
